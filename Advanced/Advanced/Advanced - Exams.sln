@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital", "Hospital\Hospital.csproj", "{4FC0B272-4E66-43BB-A6A5-EBBE32E729E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Socks", "Socks\Socks.csproj", "{D0964428-110D-4A1A-9B90-45B2BA7D06B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{B06DD142-02E5-480A-A78A-5A6D80ADCD4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC0B272-4E66-43BB-A6A5-EBBE32E729E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC0B272-4E66-43BB-A6A5-EBBE32E729E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC0B272-4E66-43BB-A6A5-EBBE32E729E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC0B272-4E66-43BB-A6A5-EBBE32E729E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0964428-110D-4A1A-9B90-45B2BA7D06B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0964428-110D-4A1A-9B90-45B2BA7D06B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0964428-110D-4A1A-9B90-45B2BA7D06B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0964428-110D-4A1A-9B90-45B2BA7D06B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06DD142-02E5-480A-A78A-5A6D80ADCD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06DD142-02E5-480A-A78A-5A6D80ADCD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06DD142-02E5-480A-A78A-5A6D80ADCD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06DD142-02E5-480A-A78A-5A6D80ADCD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB497851-76ED-490E-BC49-CDFF716CFFDE}
+	EndGlobalSection
+EndGlobal
