@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.deps.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.pdb
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.pdb
