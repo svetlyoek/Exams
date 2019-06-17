@@ -18,7 +18,7 @@ namespace TheGarden
             for (int i = 0; i < arr.Length; i++)
             {
                 char[] lines = Console.ReadLine()
-                    .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                    .Split()
                     .Select(char.Parse)
                     .ToArray();
 
@@ -71,7 +71,7 @@ namespace TheGarden
 
                             for (int row = moleRow; row >= 0; row -= 2)
                             {
-                                if (row>=0)
+                                if (row >= 0)
                                 {
                                     if (arr[row][moleCol] != ' ')
                                     {
@@ -95,9 +95,9 @@ namespace TheGarden
                         else if (direction == "down")
                         {
 
-                            for (int row = moleRow; row <= arr.Length-1;row += 2)
+                            for (int row = moleRow; row <= arr.Length - 1; row += 2)
                             {
-                                if (moleRow <= arr.Length-1)
+                                if (moleRow <= arr.Length - 1)
                                 {
                                     if (arr[row][moleCol] != ' ')
                                     {
@@ -123,25 +123,16 @@ namespace TheGarden
 
                             for (int col = moleCol; col >= 0; col -= 2)
                             {
-                                if(moleCol>=0)
-                                {
-                                    if (arr[moleRow][col] != ' ')
-                                    {
-                                        arr[moleRow][col] = ' ';
-                                        harmedVegetables++;
-                                    }
-                                    else
-                                    {
-                                        break;
-                                    }
 
+                                if (arr[moleRow][col] != ' ')
+                                {
+                                    arr[moleRow][col] = ' ';
+                                    harmedVegetables++;
                                 }
                                 else
                                 {
                                     break;
                                 }
-
-                               
                             }
                         }
 
@@ -149,27 +140,18 @@ namespace TheGarden
                         {
 
 
-                            for (int col = moleCol; col <= arr[moleRow].Length-1;col += 2)
+                            for (int col = moleCol; col <= arr[moleRow].Length - 1; col += 2)
                             {
-                                if(moleCol<=arr[moleRow].Length-1)
-                                {
-                                    if (arr[moleRow][col] != ' ')
-                                    {
-                                        arr[moleRow][col] = ' ';
-                                        harmedVegetables++;
-                                    }
-                                    else
-                                    {
-                                        break;
-                                    }
 
+                                if (arr[moleRow][col] != ' ')
+                                {
+                                    arr[moleRow][col] = ' ';
+                                    harmedVegetables++;
                                 }
                                 else
                                 {
                                     break;
                                 }
-                               
-
                             }
                         }
                     }
