@@ -10,7 +10,6 @@
 
         public string Name { get; set; }
 
-        public List<Gladiator> Gladiators { get; set; }
         public Arena(string name)
         {
             this.Name = name;
@@ -27,25 +26,25 @@
 
         public void Remove(string name)
         {
-            var currentGladiator = this.Gladiators.Select(n => n).Where(x => x.Name == name).FirstOrDefault();
+            var currentGladiator = this.gladiators.Select(n => n).Where(x => x.Name == name).FirstOrDefault();
             this.gladiators.Remove(currentGladiator);
         }
 
         public Gladiator GetGladitorWithHighestStatPower()
         {
-           return this.Gladiators.OrderByDescending(x => x.GetStatPower()).FirstOrDefault();
-           
+            return this.gladiators.OrderByDescending(x => x.GetStatPower()).FirstOrDefault();
+
         }
 
         public Gladiator GetGladitorWithHighestWeaponPower()
         {
-          return this.Gladiators.OrderByDescending(x => x.GetWeaponPower()).FirstOrDefault();
-           
+            return this.gladiators.OrderByDescending(x => x.GetWeaponPower()).FirstOrDefault();
+
         }
         public Gladiator GetGladitorWithHighestTotalPower()
         {
-            return this.Gladiators.OrderByDescending(x => x.GetTotalPower()).FirstOrDefault();
-           
+            return this.gladiators.OrderByDescending(x => x.GetTotalPower()).FirstOrDefault();
+
         }
 
         public override string ToString()
