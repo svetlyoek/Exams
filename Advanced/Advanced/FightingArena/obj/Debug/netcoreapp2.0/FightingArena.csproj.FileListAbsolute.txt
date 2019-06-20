@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.deps.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.pdb
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.pdb
