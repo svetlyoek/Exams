@@ -1,0 +1,17 @@
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.deps.json
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.pdb
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.pdb
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csproj.CopyComplete
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.pdb
