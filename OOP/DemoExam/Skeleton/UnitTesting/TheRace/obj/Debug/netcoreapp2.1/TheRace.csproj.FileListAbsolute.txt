@@ -1,0 +1,9 @@
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+E:\Soft Uni\CODES\Exams\OOP\DemoExam\Skeleton\UnitTesting\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb
