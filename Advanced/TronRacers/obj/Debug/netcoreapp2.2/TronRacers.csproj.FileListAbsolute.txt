@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.deps.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.pdb
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.pdb
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.csprojAssemblyReference.cache
