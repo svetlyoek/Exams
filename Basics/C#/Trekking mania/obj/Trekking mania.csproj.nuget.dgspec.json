@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Soft Uni\\CODES\\Exams\\Basics\\Trekking mania\\Trekking mania.csproj": {}
+  },
+  "projects": {
+    "E:\\Soft Uni\\CODES\\Exams\\Basics\\Trekking mania\\Trekking mania.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Soft Uni\\CODES\\Exams\\Basics\\Trekking mania\\Trekking mania.csproj",
+        "projectName": "Trekking mania",
+        "projectPath": "E:\\Soft Uni\\CODES\\Exams\\Basics\\Trekking mania\\Trekking mania.csproj",
+        "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
+        "outputPath": "E:\\Soft Uni\\CODES\\Exams\\Basics\\Trekking mania\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

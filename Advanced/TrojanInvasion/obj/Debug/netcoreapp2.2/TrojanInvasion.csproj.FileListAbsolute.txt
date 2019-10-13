@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.deps.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.pdb
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.dll
+E:\Soft Uni\CODES\Exams\Advanced\Advanced\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.pdb

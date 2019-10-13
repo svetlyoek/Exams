@@ -1,0 +1,11 @@
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.deps.json
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.json
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.dev.json
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.pdb
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csprojAssemblyReference.cache
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csproj.CoreCompileInputs.cache
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfoInputs.cache
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfo.cs
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+D:\Soft Uni\CODES\Exams\Advanced\Advanced\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.pdb
