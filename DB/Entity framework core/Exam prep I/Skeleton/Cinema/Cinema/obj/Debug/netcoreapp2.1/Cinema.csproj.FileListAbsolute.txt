@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam prep I\Skeleton\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
