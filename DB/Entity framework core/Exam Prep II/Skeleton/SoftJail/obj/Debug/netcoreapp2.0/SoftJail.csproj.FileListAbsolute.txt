@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep II\Skeleton\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
