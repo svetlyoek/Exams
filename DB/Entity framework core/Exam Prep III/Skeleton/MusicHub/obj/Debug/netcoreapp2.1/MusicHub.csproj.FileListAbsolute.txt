@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+E:\Soft Uni\CODES\Exams\DB\Entity framework core\Exam Prep III\Skeleton\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb
