@@ -1,0 +1,13 @@
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.deps.json
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Data.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Models.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Data.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Models.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.csproj.CopyComplete
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.pdb

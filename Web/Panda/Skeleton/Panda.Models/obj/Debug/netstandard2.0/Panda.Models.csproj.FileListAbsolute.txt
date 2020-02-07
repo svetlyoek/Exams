@@ -1,0 +1,8 @@
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\bin\Debug\netstandard2.0\Panda.Models.deps.json
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\bin\Debug\netstandard2.0\Panda.Models.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\obj\Debug\netstandard2.0\Panda.Models.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\obj\Debug\netstandard2.0\Panda.Models.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\bin\Debug\netstandard2.0\Panda.Models.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\obj\Debug\netstandard2.0\Panda.Models.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\obj\Debug\netstandard2.0\Panda.Models.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Models\obj\Debug\netstandard2.0\Panda.Models.pdb

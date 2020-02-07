@@ -1,0 +1,13 @@
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.deps.json
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\bin\Debug\netstandard2.0\Panda.Models.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\bin\Debug\netstandard2.0\Panda.Models.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csproj.CopyComplete

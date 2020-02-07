@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.deps.json
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csproj.CopyComplete

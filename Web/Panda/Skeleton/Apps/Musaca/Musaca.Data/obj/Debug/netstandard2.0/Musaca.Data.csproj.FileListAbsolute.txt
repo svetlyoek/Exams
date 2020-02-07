@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.deps.json
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Models.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Models.pdb
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.AssemblyInfo.cs
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csproj.CopyComplete
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.dll
+E:\Soft Uni\CODES\Exams\Web\Panda\Skeleton\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.pdb
