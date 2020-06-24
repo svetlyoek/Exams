@@ -60,13 +60,14 @@ class Bank {
         this._validateCustomer(personalId);
 
         let customer = this._findCustomer(personalId);
+        let customerTransactions = customer.transactions.slice();
 
         return `Bank name: ${this._bankName}\n` +
             `Customer name: ${customer.firstName} ${customer.lastName}\n` +
             `Customer ID: ${customer.personalId}\n` +
             `Total Money: ${customer.totalMoney}$\n` +
             `Transactions:\n` +
-            customer.transactions.reverse()
+            customerTransactions.reverse()
                 .join('\n');
     }
 
