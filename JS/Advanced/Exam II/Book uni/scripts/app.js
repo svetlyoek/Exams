@@ -15,6 +15,9 @@ function solve() {
         e.preventDefault();
 
         titleValue = title.value.trim();
+
+       /*  Parse  */
+       
         yearValue = Number(year.value);
         priceValue = Number(price.value);
 
