@@ -122,8 +122,6 @@ export async function createPost() {
     }
 }
 
-
-
 function getToken() {
 
     const token = localStorage.getItem('userToken');

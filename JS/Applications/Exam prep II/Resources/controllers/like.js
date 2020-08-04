@@ -40,6 +40,10 @@ export default async function join() {
             loadInfo('You liked that recipe.');
 
             this.redirect(`#/details/${recipeId}`);
+            
+        } else {
+
+            loadInfo('You already liked it!');
         }
 
     } catch (error) {
