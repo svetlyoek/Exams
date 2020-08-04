@@ -22,20 +22,25 @@ export default async function join() {
             event = await data.details(eventId);
         }
 
-        event.people++;
+        if (!this.app.userData.userEvents.find(id => id == `${username}-${eventId}`)) {
 
-        const result = await data.edit(eventId, event);
+            event.people++;
 
-        if (result.hasOwnProperty('errorData')) {
+            this.app.userData.userEvents.push(`${username}-${eventId}`);
 
-            const error = new Error();
-            Object.assign(error, result);
-            throw error;
+            const result = await data.edit(eventId, event);
+
+            if (result.hasOwnProperty('errorData')) {
+
+                const error = new Error();
+                Object.assign(error, result);
+                throw error;
+            }
+
+            loadInfo('You join the event successfully.');
+
+            this.redirect(`#/details/${eventId}`);
         }
-
-        loadInfo('You join the event successfully.');
-
-        this.redirect(`#/details/${eventId}`);
 
     } catch (error) {
 

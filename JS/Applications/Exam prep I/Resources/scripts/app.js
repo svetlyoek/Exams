@@ -19,7 +19,8 @@ $(() => {
 
         this.userData = {
 
-            events: []
+            events: [],
+            userEvents: []
         };
 
         this.get('index.html', home);
