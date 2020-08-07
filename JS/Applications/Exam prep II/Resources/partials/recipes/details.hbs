@@ -24,7 +24,9 @@
         <div class="detailsIngredients">
             <h3 class="my-3 ingredient">Ingredients</h3>
             <ul>
-                <li>{{ingredients}}</li>
+                {{#each ingredients}}
+                <li>{{this}}</li>
+                {{/each}}
             </ul>
         </div>
     </div>

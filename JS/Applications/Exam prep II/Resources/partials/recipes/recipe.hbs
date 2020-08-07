@@ -13,7 +13,9 @@
                     <div class="back-side-info">
                         <h4>Ingredients</h4>
                         <ul>
-                            <li>{{ingredients}}</li>
+                            {{#each ingredients}}
+                            <li>{{this}}</li>
+                            {{/each}}
                         </ul>
                         <a href="#/details/{{objectId}}">View the recepie</a>
                     </div>

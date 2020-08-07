@@ -31,7 +31,7 @@ export async function createPost() {
     const inputImage = document.getElementById('defaultRecepieShareFoodImageURL');
 
     const meal = this.params.meal;
-    const ingredients = this.params.ingredients;
+    const ingredients = this.params.ingredients.split(',').map(i => i.trim());
     const method = this.params.method;
     const description = this.params.description;
     const image = this.params.image;
