@@ -78,7 +78,7 @@ export async function editPost() {
 
         const newRecipe = {
             meal: meal,
-            ingredients: ingredients,
+            ingredients: Array.from(ingredients.split(',')),
             method: method,
             description: description,
             image: image,
