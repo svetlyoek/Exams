@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap");
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  z-index: 1;
+  width: 90%;
+  margin: 0 auto;
+  height: 100px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  box-shadow: 0 0 4px 4px #d2d2d2;
+  background-color: white;
+}
+.header-nav {
+  display: flex;
+  padding-right: 20px;
+}
+.header-logo {
+  width: 120px;
+  padding: 27px 0 0 27px;
+}
+.header-nav-ul {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.header-nav-li {
+  list-style: none;
+}
+.header-nav-href,
+.header-nav-href.round-href {
+  text-decoration: none;
+  color: black;
+  padding: 15px;
+}
+.header-nav-href.round-href {
+  border-radius: 50%;
+  color: white;
+  box-shadow: 0 0 4px 4px #d2d2d2;
+  background-color: #42abf8;
+}
+.certificates-href {
+  border-top: 10px solid #66bbf9;
+  padding-top: 39px;
+}
+.certificates-background {
+  z-index: -1;
+  position: relative;
+  top: -100px;
+  width: 100%;
+  height: 600px;
+  opacity: 0.2;
+}
+.certificates {
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  position: absolute;
+  top: -12px;
+  height: 600px;
+  margin: 0 auto;
+}
+.web-development-certificates {
+  display: flex;
+  flex-basis: 50%;
+  background-color: black;
+  border-radius: 8px;
+  color: white;
+  flex-wrap: wrap;
+  padding: 20px;
+  margin: 0 0 75px 123px;
+}
+.web-dev-image {
+  margin: 0 0 77px 55px;
+}
+.blue-certificate {
+  position: relative;
+  left: 3px;
+}
+.web-dev-footer {
+  color: #969aa3;
+  display: flex;
+  position: absolute;
+  bottom: 27px;
+  left: 125px;
+}
+.diploma {
+  height: 450px;
+  width: 80%;
+  margin: 0 auto;
+}
+.diploma-title {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 0;
+}
+.diploma-article {
+  background-color: #f4f5f7;
+  padding: 15px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.explore-us {
+  width: 80%;
+  height: 200px;
+  border-radius: 8px;
+  padding-top: 35px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  text-align: center;
+  color: white;
+  opacity: 0.8;
+  background-image: url("./images/sign-up-prompt-background.jpg");
+  box-shadow: 1px 6px 9px 0px rgba(0, 0, 0, 0.75);
+}
+.explore-us-buttons {
+  margin-top: 50px;
+}
+.apply-btn {
+  border-radius: 8px;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+.explore-apply-btn {
+  color: #5ab5f8;
+  background-color: white;
+  outline: none;
+  border: none;
+  margin-right: 15px;
+}
+.explore-curriculum-btn {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  margin-left: 25px;
+}
+.button-border {
+  border-right: 2px solid white;
+  padding: 3px;
+}
+.explore-us-line {
+  width: 80%;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  height: 100px;
+}
+.footer-logo {
+  width: 120px;
+}
+.footer-ul {
+  display: flex;
+  list-style: none;
+}
+.footer-li {
+  margin: 10px;
+}
+.footer-href {
+  color: black;
+  text-decoration: none;
+}

@@ -1,0 +1,20 @@
+@media screen and (max-width: 600px) {
+  ul.icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+  }
+  section.thumbnails {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+  section.thumbnails div {
+    flex-basis: 100%;
+    padding-left: 0;
+    margin-bottom: 35px;
+  }
+  section.thumbnails img {
+    height: 250px;
+  }
+}
