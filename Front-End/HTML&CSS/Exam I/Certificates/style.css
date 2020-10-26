@@ -55,8 +55,8 @@ h6 {
   background-color: #42abf8;
 }
 .certificates-href {
-  border-top: 2px solid #66bbf9;
-  padding-top: 39px;
+  border-top: 5px solid #66bbf9;
+  padding-top: 36px;
 }
 .certificates-background {
   z-index: -1;
