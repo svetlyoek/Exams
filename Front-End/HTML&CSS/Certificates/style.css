@@ -55,7 +55,7 @@ h6 {
   background-color: #42abf8;
 }
 .certificates-href {
-  border-top: 10px solid #66bbf9;
+  border-top: 2px solid #66bbf9;
   padding-top: 39px;
 }
 .certificates-background {
@@ -83,10 +83,10 @@ h6 {
   color: white;
   flex-wrap: wrap;
   padding: 20px;
-  margin: 0 0 75px 123px;
+  margin: 0 0 75px 152px;
 }
 .web-dev-image {
-  margin: 0 0 77px 55px;
+  margin: 0 0 77px 200px;
 }
 .blue-certificate {
   position: relative;
@@ -97,7 +97,7 @@ h6 {
   display: flex;
   position: absolute;
   bottom: 27px;
-  left: 125px;
+  left: 152px;
 }
 .diploma {
   height: 450px;
