@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@400;600&display=swap");
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", san-serif;
+}
+.header {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 70px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 16px -4px rgba(0, 0, 0, 0.75);
+  background-color: white;
+}
+.header-ul {
+  display: flex;
+}
+.header-li {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-right: 20px;
+}
+.header-href {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.login-btn {
+  color: white;
+  padding: 8px 20px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  box-shadow: 0px 0px 16px -4px rgba(0, 0, 0, 0.75);
+  background-color: #9b5dc6;
+}
+.diploma {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  padding: 50px 50px 50px 71px;
+}
+.diploma-title {
+  margin-top: 0;
+}
+.diploma-info,
+.diploma-image {
+  box-sizing: border-box;
+}
+.diploma-info {
+  width: 70%;
+  margin-right: 128px;
+}
+.diploma-first-footer,
+.diploma-second-footer {
+  color: #7f8396;
+}
+.background-image-wrapper {
+  display: flex;
+  position: absolute;
+  justify-content: flex-end;
+  background-color: #54546d;
+  right: -31px;
+  width: 510px;
+  height: 544px;
+  top: -156px;
+  z-index: -1;
+  border-radius: 50%;
+}
+.background-image {
+  margin: 70px 40px 0 0;
+}
+.cpe-wrapper {
+  display: flex;
+  justify-content: space-between;
+  height: 145px;
+  padding: 100px 60px;
+  margin-top: 20px;
+  background-color: black;
+}
+.cpe-info {
+  color: white;
+  width: 80%;
+}
+.cpe-image {
+  position: relative;
+  right: 200px;
+  top: 20px;
+}
+.career-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 60px;
+}
+.career-image {
+  width: 65%;
+}
+.career-center-image {
+  width: 100%;
+}
+.career-info-title {
+  margin-top: 0;
+}
+.career-info-wrapper {
+  margin-left: 40px;
+}
+.career-apply-button {
+  padding: 8px 15px;
+  border-radius: 15px;
+  outline: none;
+  background-color: white;
+  border: 1px solid #a36bc8;
+  color: #a36bc8;
+  font-weight: 600;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  background-color: #2c2c3a;
+}
+.creative-title,
+.trainings-title,
+.initiatives-title,
+.partners-title {
+  color: #9b5dc4;
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 35px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+.creative-ul,
+.trainings-ul,
+.initiatives-ul,
+.partners-ul,
+.icons-ul {
+  list-style: none;
+}
+.icons-ul {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0;
+}
+.creative-li,
+.trainings-li,
+.initiatives-li,
+.partners-li,
+.icons-li {
+  margin-bottom: 7px;
+}
+.icons-li {
+  font-size: 32px;
+  padding-right: 18px;
+}
+.creative-href,
+.trainings-href,
+.initiatives-href,
+.partners-href,
+.icons-href,
+.icons-paragraph {
+  color: white;
+  text-decoration: none;
+}

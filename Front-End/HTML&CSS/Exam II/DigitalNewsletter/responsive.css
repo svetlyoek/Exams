@@ -1,0 +1,29 @@
+@media screen and (max-width: 884px) {
+  main {
+    padding: 1em;
+  }
+  main header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+    margin-top: 20px;
+  }
+  .newsletter-boxes {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .newsletter-box {
+    width: 90%;
+    margin-bottom: 50px;
+  }
+  .newsletter-bottom {
+    display: flex;
+  }
+  .newsletter-bottom-content {
+    text-align: left;
+  }
+  .bottom-logo {
+    width: 13%;
+  }
+}

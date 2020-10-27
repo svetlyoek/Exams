@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Lato", sans-serif;
+}
+.info-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+}
+.diploma-wrapper {
+  width: 80%;
+  height: 500px;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  background-color: #306085;
+}
+.info {
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  color: white;
+  padding: 170px 0 80px 100px;
+  font-weight: 100;
+}
+.info span {
+  font-weight: 600;
+  color: white;
+}
+.info p {
+  font-size: 14px;
+}
+.info-footer {
+  margin-top: 30px;
+  color: #b3c4d1;
+}
+.info-dots {
+  position: relative;
+  left: -104px;
+  bottom: 53px;
+}
+.diploma {
+  display: flex;
+  height: 63%;
+  width: 42%;
+  margin-bottom: 46px;
+}
+.diploma-dots {
+  position: relative;
+  top: -129px;
+  left: 243px;
+  display: flex;
+}
+.diploma-image,
+.certificate-image {
+  display: flex;
+  z-index: 1;
+}
+.certificate-image {
+  margin-right: 20px;
+}
+.arrow {
+  position: relative;
+  right: 244px;
+  height: 500px;
+  display: flex;
+  align-self: center;
+  margin-top: 35px;
+}
